@@ -1,0 +1,21 @@
+body {
+    margin: 10px;
+    background-color: red;
+}
+
+.cv-group {
+    font-size: em;
+    padding: 20px;
+    margin: 10px;
+    width: 40%
+}
+input{
+    background-color: red;
+}
+/* body {
+    padding: 0px;
+    display: block;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+} */
